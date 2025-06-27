@@ -31,10 +31,11 @@ const App = () =>{
         <Routes>
       
           <Route path="/home" element={<HomePage/>}/>
-          <Route path="/about" element={<AboutPage/>}/>
+       
           <Route path="/courses" element={<CoursesPage/>}/>
           <Route path="/contact" element={<ContactPage/>}/>
           <Route path="/admission" element={<AdmissionPage/>}/>
+          <Route path="/about" element={<AboutPage/>}/>
          
           
         </Routes>
