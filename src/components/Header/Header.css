@@ -1,0 +1,39 @@
+.new {
+       
+       display:flex;
+         align-items: center;
+       justify-content:space-between;
+       font-size: 25px;
+       color:white;
+       border: white solid 2px;
+     
+     
+       background-color:black;
+       height:80px;
+       margin-top: 0;
+  
+      
+}
+
+
+
+.hate  {
+   display: flex;
+    gap:30px;
+    color: white;
+}
+
+
+.neha {
+  background-color: green;
+  color: white;
+  
+}
+
+.new {
+    position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+

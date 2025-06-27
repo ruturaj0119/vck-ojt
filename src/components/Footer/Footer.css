@@ -1,0 +1,39 @@
+
+
+.ravi {
+    background-color: black;
+    color: white;
+    height: 40px;
+    
+     text-align: center;
+    /* justify-content: center; */
+    padding: 10px;
+    bottom: 0;
+   
+}
+
+.aadi {
+    text-align: right;
+    color:white;
+    font-size: 10px;
+    height: 40px;
+   float: right;
+  
+}
+.foot {
+    
+    width: 100%;
+
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+
+
+}
+#root {
+    position: relative;
+    min-width: 100%;
+    /* padding-bottom: 60px;*/
+    bottom: 0;
+    text-align: center;
+}

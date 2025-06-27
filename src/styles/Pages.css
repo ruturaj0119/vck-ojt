@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+    align-content: center;
+}
+
+
+h1 {
+
+   text-align: center; 
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: black solid 2px;
+ 
+}
+
+
+p {
+    text-align: center;
+    align-items: center;
+}
+
+
+h2   {
+    align-items: center;
+    text-align: center;
+    text-box: 50px;
+}
+
+.content {
+            text-align: center;
+        
+            text-emphasis-color: black;
+            
+            
+}
+
+.t1 {
+       height: 250px;
+       width: 250px; 
+       margin: 10px;
+}
+
+.s1 {
+    border:white solid 5px;
+    background-color:aquamarine;
+    color: black;
+}
+
+
+.d1 {
+    
+    display:flex;
+    justify-content: center;
+}
+ 
+.m1 {
+    margin-left: 450px;
+    border:black solid  2px;
+    background-color:green;
+    color:white ;
+    margin-right: 400px;
+    height: 70px;
+    width: 100px;
+}
+
+.con {
+      border:white solid 5px;
+    background-color:aquamarine;
+    color: black;
+}
+
+.Abm {
+    border: white solid 5px;
+    background-color:aquamarine;
+    color: black;
+}
+
+.cou {
+    border: white solid 5px;
+    background-color: aquamarine;
+    color:black ;
+}
+
+
+.f1 {
+         margin-left: 700px;
+
+}
+
+h3 {
+    text-align: center;
+    margin-left: 100px;
+
+}
+
+.put {
+    height: 200px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+     margin-left: 100px;
+
+}
+.back {
+    background-color: aquamarine;
+    color: black;
+}
+
+.q1 {
+    color: red;
+}
+
+.l1 {
+    color:red;
+}
+
+.n1 {
+
+    color: blue;
+
+}
+
+.body {
+    min-height: 100vh;
+
+   width: 100%;
+    background-color:aqua;
+    margin-right: 0;
+    
+    color:black ;
+   
+      
+ 
+   
+    
+  
+}
+
+.inner-body {
+    height: 70%;
+    width: 65%;
+    margin: 8% 15% 8%;
+    background-color:white;
+    border-radius: 5px;
+    overflow-y: auto;
+        position: fixed;
+
+    color: black;
+    margin-top: -250px;
+    text-align: center;
+
+    /* margin-bottom:100px;*/
+
+    /* padding-bottom:100px;*/
+   
+    
+  }
+#abt {
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-size: cover;
+}
+
+
+.b1 {
+         
+    border:black solid  2px;
+    background-color:green;
+    color:white ;
+ 
+    width: 100%;
+
+   
+}
+
+.vishal {
+   background-color: green;
+  color:white
+  
+  
+}
+.pt{
+    margin-top: 25px;
+}
+.sp{
+   
+    margin-left: 10px;
+}
+.g1 {
+    margin-left: 80px;
+    background-color: green;
+    color: white;
+}
+
+
+
+
