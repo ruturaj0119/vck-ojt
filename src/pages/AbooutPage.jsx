@@ -1,7 +1,7 @@
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 
-const Aboutpage = () => {
+const AbooutPage = () => {
     return(
         <div className="body">
 
@@ -63,4 +63,4 @@ const Aboutpage = () => {
     )
 }
 
-export default Aboutpage;
+export default AbooutPage;

@@ -15,6 +15,7 @@ import AboutPage from "./pages/Aboutpage";
 
 
 
+
 const App = () =>{
   const [showPopup, setShowPopup] = useState(true);
   const handleClosePopup = () => {
@@ -42,8 +43,8 @@ const App = () =>{
           <Route path="/courses" element={<CoursesPage/>}/>
           <Route path="/contact" element={<ContactPage/>}/>
           <Route path="/admission" element={<AdmissionPage/>}/>
-          <Route path="/about"  element={<AboutPage/>} />
-         
+          <Route path="/about" element={<AboutPage/>} />
+        
           
         </Routes>
         <ChatbotComponent/>
