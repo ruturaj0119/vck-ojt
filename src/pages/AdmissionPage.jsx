@@ -2,7 +2,7 @@ import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 import {Link} from 'react-router-dom';
 
-const Admission = () => {
+const AdmissionPage= () => {
     return(
 
 <div className="body">
@@ -72,4 +72,4 @@ const Admission = () => {
     )
 }
 
-export default Admission;
+export default AdmissionPage;
