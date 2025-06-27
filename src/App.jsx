@@ -9,7 +9,7 @@ import HomePage from "./pages/HomePage";
 import CoursesPage from "./pages/CoursesPage";
 import ContactPage from "./pages/ContactPage";
 import AdmissionPage from "./pages/AdmissionPage";
-import AboutPage from "./pages/AboutPage";
+import AboutPage from "./pages/Aboutpage";
 
 
 
@@ -33,6 +33,7 @@ const App = () =>{
     <div>
       <Router>
         <Routes>
+          <Route path="/" element={<HomePage/>}/>
       
           <Route path="/home" element={<HomePage/>}/>
        
