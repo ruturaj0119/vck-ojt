@@ -4,11 +4,12 @@ import './styles/Pages.css'
 import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
 import DeveloperInfoPopup from "./components/DeveloperInfo/DeveloperInfoPopup";
 import { useState } from "react";
-import AboutPage from "./pages/Aboutpage";
+
 import HomePage from "./pages/HomePage";
 import CoursesPage from "./pages/CoursesPage";
 import ContactPage from "./pages/ContactPage";
 import AdmissionPage from "./pages/AdmissionPage";
+import AboutPage from "./pages/Aboutpage";
 const App = () =>{
   const [showPopup, setShowPopup] = useState(true);
   const handleClosePopup = () => {
